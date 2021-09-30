@@ -1,2 +1,2 @@
-# kc-password-manager
-This code managers the passwords
+# React + Express Setup
+Basic React and Express setup
